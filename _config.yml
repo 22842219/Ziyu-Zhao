@@ -17,5 +17,5 @@ CTMTDS: "https://www.maintenance.org.au/"
 
 
 
-# Build settings
-markdown: kramdown
+# # Build settings
+# markdown: kramdown
