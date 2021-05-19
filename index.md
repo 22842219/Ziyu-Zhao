@@ -2,7 +2,13 @@
 layout: default
 description: I'm Ziyu Zhao and I work on Natural Language Processing and Knowledge Reasoning. More details inside!
 ---
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 I am Ziyu Zhao, a __Ph.D. student__ at the University of Western Australia. I'm very happy to be supervised by [Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu), [Melinda Hodkiewicz](https://research-repository.uwa.edu.au/en/persons/melinda-hodkiewicz)
 and [Tim French](https://research-repository.uwa.edu.au/en/persons/tim-french).
