@@ -1,0 +1,4 @@
+type: CNAME
+host: www.ziyu-zhao.com
+answer: ziyu-zhao.github.io
+TTL: 300
