@@ -14,7 +14,7 @@ url: "" # the base hostname & protocol for your site
 
 # you can also declare arbitrary key-value data here
 CTMTDS: "https://www.maintenance.org.au/"
-
+blog_page: "https://github.com/22842219/Ziyu-Zhao/blob/gh-pages/_posts/blog.md"
 
 
 # Build settings
