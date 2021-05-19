@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BLOG
-categories: BLOG PUBLICATIONS 
 ---
 
 
