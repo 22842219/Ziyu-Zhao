@@ -7,9 +7,8 @@ email: ziyu.zhao@research.uwa.edu.au
 github: 22842219
 scholar_id: PGbTrVYAAAAJ&hl=en
 description: > # this symbol means ignore newlines until "baseurl:"
-    Hi! I'm Ziyu and here you will find what I do.
-baseurl: "https://22842219.github.io/Ziyu-Zhao/" # keep blank unless you're using sub-paths
-url: "blog.html" # the base hostname & protocol for your site
+baseurl: "" # keep blank unless you're using sub-paths
+url: "" # the base hostname & protocol for your site
 #paginate: 3
 
 # you can also declare arbitrary key-value data here
