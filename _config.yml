@@ -1,3 +1,21 @@
 theme: jekyll-theme-cayman
 
 
+# Site settings
+exclude: [README.md]
+title: Ziyu Zhao
+email: ziyu.zhao@research.uwa.edu.au
+github: 22842219
+scholar_id: PGbTrVYAAAAJ&hl=en
+description: > # this symbol means ignore newlines until "baseurl:"
+baseurl: "https://22842219.github.io/Ziyu-Zhao/" # keep blank unless you're using sub-paths
+url: "" # the base hostname & protocol for your site
+#paginate: 3
+
+# you can also declare arbitrary key-value data here
+CTMTDS: "https://www.maintenance.org.au/"
+
+
+
+# Build settings
+markdown: kramdown
